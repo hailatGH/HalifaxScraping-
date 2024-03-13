@@ -87,7 +87,7 @@ if __name__ == '__main__':
     CSV_FILE = 'data.csv'
     CSV_HEADERS = ["Property Name", "Civic Address", "Floors", "Units", "Developer",
                    "Proposed/ Under Development/ Completed", "Website", "Condo or Rental",
-                   "Estimated Time of Completion", "Retail Square Footage", "District", "Image"]
+                   "Estimated Time of Completion", "Retail Square Footage", "District", "Image", "Reason"]
 
     scraper = ApartmentScraper(BASE_URL, CSV_FILE, CSV_HEADERS)
     data = scraper.get_apartment_list()
