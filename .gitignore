@@ -2,3 +2,6 @@ venv/
 backup.py
 backup2.py
 backup3.py
+d.py
+data.csv
+output.csv
