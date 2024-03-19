@@ -1,0 +1,6 @@
+Name,Household Income Range,Quartile,Average Income
+Nova Scotia,"$0 to $28,800",Q1,"$18,540"
+-,"$ 28,800 to $49,600",Q2,"$39,200"
+-,"$ 49,600 to $77,500",Q3,"$62,500"
+-,"$ 77,500 +",Q4,"$116,300"
+-,-,-,"$59,150"

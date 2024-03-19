@@ -1,0 +1,6 @@
+Province,Name,Household Income Range,Quartile,Average Income
+Nova Scotia,Halifax,"$0 to $33,600",Q1,"$20,320"
+-,-,"$ 33,600 to $56,000",Q2,"$44,920"
+-,-,"$ 56,000 to $85,000",Q3,"$69,800"
+-,-,"$ 85,000 +",Q4,"$126,800"
+-,-,-,-,"$65,400"
